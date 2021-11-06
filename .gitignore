@@ -1,8 +1,12 @@
 /node_modules
 /public/hot
 /public/storage
+/public/.htaccess
 /storage/*.key
 /vendor
+.htaccess
+index.php
+.env.copy
 .env
 .env.backup
 .phpunit.result.cache
